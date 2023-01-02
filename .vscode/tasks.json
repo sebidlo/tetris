@@ -8,9 +8,9 @@
             "args": [
                 "-g",
                 //"${file}",
-                ".\\src\\*.cpp",
+                "./src/*.cpp",
                 "-o",
-                ".\\bin\\${fileBasenameNoExtension}.exe"
+                "./bin/${fileBasenameNoExtension}.exe"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
