@@ -4,6 +4,19 @@ using namespace std;
 
 int main(){
 
-    cout << "test"<< endl;
-    //return 0;
+
+char klawisz;
+
+cout << "wciśnij klawisz a" << endl;
+cin >> klawisz;
+
+
+switch(klawisz){
+    
+    case 'a':
+        cout << "wciśnięto klawisz a" << endl;
+    break;
+}
+    
+    return 0;
  }
