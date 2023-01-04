@@ -12,6 +12,6 @@ void wyswietl_tablice(int n,int m, int tablica[rozmiar_x][rozmiar_y])
         {
         cout << tablica[x][y]<< " " ;
         }
-        cout<<endl;
+        cout << endl;
     }
 }
