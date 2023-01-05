@@ -1,11 +1,15 @@
 #include <iostream>
 #include <conio.h>
+#include "konfiguracja.hpp"
 
 using namespace std;
 
 int main()
 {
     bool koniec = false;
+    
+    int tablica_gry[rozmiar_x][rozmiar_y];
+
     while( koniec == false )
     {
         unsigned char znak = getch();
