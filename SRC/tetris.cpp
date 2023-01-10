@@ -1,6 +1,6 @@
+#include "konfiguracja.hpp"
 #include <iostream>
 #include <conio.h>
-#include "konfiguracja.hpp"
 
 using namespace std;
 
