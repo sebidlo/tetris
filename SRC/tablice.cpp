@@ -1,6 +1,7 @@
+#include "tablice.hpp"
 #include <iostream>
 #include <conio.h>
-#include "konfiguracja.hpp"
+//#include "konfiguracja.hpp"
 
 using namespace std;
 
